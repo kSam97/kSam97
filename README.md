@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksam97&label=Profile%20views&color=0e75b6&style=flat" alt="ksam97" /> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning, SQL, Power BI, Excel**
+- 🌱 I’m currently learning **Python, Machine Learning, Statistics & Probability, SQL, Power BI, Excel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kSam97?tab=repositories](https://github.com/kSam97?tab=repositories)
 
