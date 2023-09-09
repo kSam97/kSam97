@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samrat Kundu</h1>
 <h3 align="center">A passionate Data Analyst Aspirant from India</h3>
-visit my Portfolio Website - https://ksam97.github.io/portfolio-website/
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksam97&label=Profile%20views&color=0e75b6&style=flat" alt="ksam97" /> </p>
 
@@ -11,8 +9,10 @@ visit my Portfolio Website - https://ksam97.github.io/portfolio-website/
 
 - 💬 Ask me about **Data Cleaning and Analysis.**
 
-- 📫 How to reach me **samratkundu148@gmail.com**
-
+- 📫 How to reach me...
+  - Email : **samratkundu148@gmail.com**
+  - Portfolio Website - https://ksam97.github.io/portfolio-website/
+  
 - ⚡ Fun fact **I've learn all the skills on my own. I really enjoyed each and every moment when I found/learned something new.**
 
 <h3 align="left">Connect with me:</h3>
