@@ -11,7 +11,7 @@
 
 - 📫 How to reach me...
   - Email : **samratkundu148@gmail.com**
-  - Portfolio Website - https://ksam97.github.io/portfolio-website/
+  - Portfolio Website : https://ksam97.github.io/portfolio-website/
   
 - ⚡ Fun fact **I've learn all the skills on my own. I really enjoyed each and every moment when I found/learned something new.**
 
